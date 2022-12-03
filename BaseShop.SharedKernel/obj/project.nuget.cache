@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "QHX2VDpY6JWbROUWzRoeuZKUPUkmC4khMKSrpnHrSLc6F9LOrhAyhaajcp5LKCCRRi7vTyupvdwpGu8olcyxZg==",
+  "success": false,
+  "projectFilePath": "/Users/ahmadhfr/Documents/work/Base01/Shop/BaseShop/src/BaseShop.SharedKernel/BaseShop.SharedKernel.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1008",
+      "level": "Error",
+      "message": "Projects that use central package version management should not define the version on the PackageReference items but on the PackageVersion items: Newtonsoft.Json."
+    }
+  ]
+}

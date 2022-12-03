@@ -1,0 +1,15 @@
+/Users/ahmadhfr/Documents/work/Base01/Shop/BaseShop/src/BaseShop.Core/bin/Debug/net6.0/BaseShop.Core.deps.json
+/Users/ahmadhfr/Documents/work/Base01/Shop/BaseShop/src/BaseShop.Core/bin/Debug/net6.0/BaseShop.Core.dll
+/Users/ahmadhfr/Documents/work/Base01/Shop/BaseShop/src/BaseShop.Core/bin/Debug/net6.0/BaseShop.Core.pdb
+/Users/ahmadhfr/Documents/work/Base01/Shop/BaseShop/src/BaseShop.Core/bin/Debug/net6.0/BaseShop.SharedKernel.dll
+/Users/ahmadhfr/Documents/work/Base01/Shop/BaseShop/src/BaseShop.Core/bin/Debug/net6.0/BaseShop.SharedKernel.pdb
+/Users/ahmadhfr/Documents/work/Base01/Shop/BaseShop/src/BaseShop.Core/obj/Debug/net6.0/BaseShop.Core.csproj.AssemblyReference.cache
+/Users/ahmadhfr/Documents/work/Base01/Shop/BaseShop/src/BaseShop.Core/obj/Debug/net6.0/BaseShop.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmadhfr/Documents/work/Base01/Shop/BaseShop/src/BaseShop.Core/obj/Debug/net6.0/BaseShop.Core.AssemblyInfoInputs.cache
+/Users/ahmadhfr/Documents/work/Base01/Shop/BaseShop/src/BaseShop.Core/obj/Debug/net6.0/BaseShop.Core.AssemblyInfo.cs
+/Users/ahmadhfr/Documents/work/Base01/Shop/BaseShop/src/BaseShop.Core/obj/Debug/net6.0/BaseShop.Core.csproj.CoreCompileInputs.cache
+/Users/ahmadhfr/Documents/work/Base01/Shop/BaseShop/src/BaseShop.Core/obj/Debug/net6.0/BaseShop.Core.csproj.CopyComplete
+/Users/ahmadhfr/Documents/work/Base01/Shop/BaseShop/src/BaseShop.Core/obj/Debug/net6.0/BaseShop.Core.dll
+/Users/ahmadhfr/Documents/work/Base01/Shop/BaseShop/src/BaseShop.Core/obj/Debug/net6.0/refint/BaseShop.Core.dll
+/Users/ahmadhfr/Documents/work/Base01/Shop/BaseShop/src/BaseShop.Core/obj/Debug/net6.0/BaseShop.Core.pdb
+/Users/ahmadhfr/Documents/work/Base01/Shop/BaseShop/src/BaseShop.Core/obj/Debug/net6.0/ref/BaseShop.Core.dll

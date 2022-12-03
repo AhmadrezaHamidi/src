@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "1SZ1DKTya1l1lZTOznkv/eloS/d15/zgGflyoG6jAvgHVGVnpRU+O80cC+odvEsD8jGzzrRXQ1Ktjrlxhh36Ew==",
+  "success": true,
+  "projectFilePath": "/Users/ahmadhfr/Documents/work/Base01/Shop/BaseShop/src/BaseShop.Core/BaseShop.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/ahmadhfr/.nuget/packages/ardalis.guardclauses/4.0.1/ardalis.guardclauses.4.0.1.nupkg.sha512",
+    "/Users/ahmadhfr/.nuget/packages/ardalis.result/4.0.0/ardalis.result.4.0.0.nupkg.sha512",
+    "/Users/ahmadhfr/.nuget/packages/ardalis.smartenum/2.1.0/ardalis.smartenum.2.1.0.nupkg.sha512",
+    "/Users/ahmadhfr/.nuget/packages/ardalis.specification/6.1.0/ardalis.specification.6.1.0.nupkg.sha512",
+    "/Users/ahmadhfr/.nuget/packages/autofac/6.4.0/autofac.6.4.0.nupkg.sha512",
+    "/Users/ahmadhfr/.nuget/packages/jetbrains.annotations/2021.3.0/jetbrains.annotations.2021.3.0.nupkg.sha512",
+    "/Users/ahmadhfr/.nuget/packages/mediatr/10.0.1/mediatr.10.0.1.nupkg.sha512",
+    "/Users/ahmadhfr/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/ahmadhfr/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512",
+    "/Users/ahmadhfr/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

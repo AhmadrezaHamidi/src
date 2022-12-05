@@ -1,10 +1,9 @@
 ﻿using System.Collections.Generic;
 using ENode.Domain;
 
-namespace BaseShop.SharedKernel.Commanding;
-
-
-    /// <summary>Represents a tracking context for tracking the changed aggregate roots for the aggregate command handler.
+namespace BaseShop.SharedKernel.Commanding
+{
+/// <summary>Represents a tracking context for tracking the changed aggregate roots for the aggregate command handler.
     /// </summary>
     public interface ITrackingContext
     {
@@ -16,3 +15,7 @@ namespace BaseShop.SharedKernel.Commanding;
         /// </summary>
         void Clear();
     }
+}
+
+
+    

@@ -220,6 +220,5 @@ namespace BaseShop.SharedKernel.Models
         return Current.TryResolveNamed(serviceName, serviceType, out instance);
       }
     }
-  }
 }
 

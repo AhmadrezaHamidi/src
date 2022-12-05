@@ -6,8 +6,7 @@ using BaseShop.SharedKernel.Logger;
 using ENode.Configurations;
 using ENode.Infrastructure;
 
-namespace BaseShop.SharedKernel.Commanding;
-
+namespace BaseShop.SharedKernel.Commanding{
     public class ProcessingCommandMailbox
     {
         #region Private Variables 
@@ -221,3 +220,4 @@ namespace BaseShop.SharedKernel.Commanding;
             IsRunning = false;
         }
     }
+}

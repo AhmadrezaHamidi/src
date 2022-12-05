@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 
-namespace BaseShop.SharedKernel.Commanding;
+namespace BaseShop.SharedKernel.Commanding{
 
 /// <summary>Represents a command service.
 /// </summary>
@@ -23,3 +23,7 @@ public interface ICommandService
       /// <returns>A task which contains the result of the command.</returns>
       Task<CommandResult> ExecuteAsync(ICommand command, CommandReturnType commandReturnType);
   }
+
+
+
+}

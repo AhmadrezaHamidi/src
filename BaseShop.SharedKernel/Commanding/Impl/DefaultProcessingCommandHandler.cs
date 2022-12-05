@@ -9,7 +9,7 @@ using ENode.Messaging;
 using ENode.Commanding;
 
 
-namespace BaseShop.SharedKernel.Commanding.Impl;
+namespace BaseShop.SharedKernel.Commanding.Impl
 {
     public class DefaultProcessingCommandHandler : IProcessingCommandHandler
     {

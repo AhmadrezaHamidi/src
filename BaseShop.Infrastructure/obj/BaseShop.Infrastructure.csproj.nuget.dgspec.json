@@ -1,35 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ahmadhfr/Documents/work/Base01/Shop/BaseShop/src/BaseShop.Infrastructure/BaseShop.Infrastructure.csproj": {}
+    "E:\\TaskManejer\\src\\BaseShop.Infrastructure\\BaseShop.Infrastructure.csproj": {}
   },
   "projects": {
-    "/Users/ahmadhfr/Documents/work/Base01/Shop/BaseShop/src/BaseShop.Core/BaseShop.Core.csproj": {
+    "E:\\TaskManejer\\src\\BaseShop.Core\\BaseShop.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ahmadhfr/Documents/work/Base01/Shop/BaseShop/src/BaseShop.Core/BaseShop.Core.csproj",
+        "projectUniqueName": "E:\\TaskManejer\\src\\BaseShop.Core\\BaseShop.Core.csproj",
         "projectName": "BaseShop.Core",
-        "projectPath": "/Users/ahmadhfr/Documents/work/Base01/Shop/BaseShop/src/BaseShop.Core/BaseShop.Core.csproj",
-        "packagesPath": "/Users/ahmadhfr/.nuget/packages/",
-        "outputPath": "/Users/ahmadhfr/Documents/work/Base01/Shop/BaseShop/src/BaseShop.Core/obj/",
+        "projectPath": "E:\\TaskManejer\\src\\BaseShop.Core\\BaseShop.Core.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "E:\\TaskManejer\\src\\BaseShop.Core\\obj\\",
         "projectStyle": "PackageReference",
-        "centralPackageVersionsManagementEnabled": true,
         "configFilePaths": [
-          "/Users/ahmadhfr/Documents/work/Base01/Shop/BaseShop/NuGet.Config",
-          "/Users/ahmadhfr/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/ahmadhfr/Documents/work/Base01/Shop/BaseShop/src/BaseShop.SharedKernel/BaseShop.SharedKernel.csproj": {
-                "projectPath": "/Users/ahmadhfr/Documents/work/Base01/Shop/BaseShop/src/BaseShop.SharedKernel/BaseShop.SharedKernel.csproj"
+              "E:\\TaskManejer\\src\\BaseShop.SharedKernel\\BaseShop.SharedKernel.csproj": {
+                "projectPath": "E:\\TaskManejer\\src\\BaseShop.SharedKernel\\BaseShop.SharedKernel.csproj"
               }
             }
           }
@@ -46,67 +46,28 @@
           "dependencies": {
             "Ardalis.GuardClauses": {
               "target": "Package",
-              "version": "[4.0.1, )",
-              "versionCentrallyManaged": true
+              "version": "(, )"
             },
             "Ardalis.Result": {
               "target": "Package",
-              "version": "[4.0.0, )",
-              "versionCentrallyManaged": true
+              "version": "(, )"
             },
             "Ardalis.SmartEnum": {
               "target": "Package",
-              "version": "[2.1.0, )",
-              "versionCentrallyManaged": true
+              "version": "(, )"
             },
             "Ardalis.Specification": {
               "target": "Package",
-              "version": "[6.1.0, )",
-              "versionCentrallyManaged": true
+              "version": "(, )"
             },
             "Autofac": {
               "target": "Package",
-              "version": "[6.4.0, )",
-              "versionCentrallyManaged": true
+              "version": "(, )"
             },
             "MediatR": {
               "target": "Package",
-              "version": "[10.0.1, )",
-              "versionCentrallyManaged": true
+              "version": "(, )"
             }
-          },
-          "centralPackageVersions": {
-            "Ardalis.ApiEndpoints": "[4.0.1, )",
-            "Ardalis.GuardClauses": "[4.0.1, )",
-            "Ardalis.HttpClientTestExtensions": "[3.0.0, )",
-            "Ardalis.ListStartupServices": "[1.1.4, )",
-            "Ardalis.Result": "[4.0.0, )",
-            "Ardalis.Result.AspNetCore": "[4.0.0, )",
-            "Ardalis.SmartEnum": "[2.1.0, )",
-            "Ardalis.Specification": "[6.1.0, )",
-            "Ardalis.Specification.EntityFrameworkCore": "[6.1.0, )",
-            "Autofac": "[6.4.0, )",
-            "Autofac.Extensions.DependencyInjection": "[8.0.0, )",
-            "coverlet.collector": "[3.1.2, )",
-            "MediatR": "[10.0.1, )",
-            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": "[6.0.8, )",
-            "Microsoft.AspNetCore.Mvc.Testing": "[6.0.8, )",
-            "Microsoft.EntityFrameworkCore.InMemory": "[6.0.8, )",
-            "Microsoft.EntityFrameworkCore.Sqlite": "[6.0.8, )",
-            "Microsoft.EntityFrameworkCore.SqlServer": "[6.0.8, )",
-            "Microsoft.EntityFrameworkCore.Tools": "[6.0.8, )",
-            "Microsoft.NET.Test.Sdk": "[17.2.0, )",
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": "[6.0.8, )",
-            "Moq": "[4.18.1, )",
-            "Newtonsoft.Json": "[13.0.1, )",
-            "ReportGenerator": "[5.1.9, )",
-            "Serilog.AspNetCore": "[5.0.0, )",
-            "Serilog.Sinks.ApplicationInsights": "[4.0.0, )",
-            "SQLite": "[3.13.0, )",
-            "Swashbuckle.AspNetCore": "[6.3.1, )",
-            "Swashbuckle.AspNetCore.Annotations": "[6.3.1, )",
-            "xunit": "[2.4.1, )",
-            "xunit.runner.visualstudio": "[2.4.5, )"
           },
           "imports": [
             "net461",
@@ -124,39 +85,39 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/ahmadhfr/Documents/work/Base01/Shop/BaseShop/src/BaseShop.Infrastructure/BaseShop.Infrastructure.csproj": {
+    "E:\\TaskManejer\\src\\BaseShop.Infrastructure\\BaseShop.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ahmadhfr/Documents/work/Base01/Shop/BaseShop/src/BaseShop.Infrastructure/BaseShop.Infrastructure.csproj",
+        "projectUniqueName": "E:\\TaskManejer\\src\\BaseShop.Infrastructure\\BaseShop.Infrastructure.csproj",
         "projectName": "BaseShop.Infrastructure",
-        "projectPath": "/Users/ahmadhfr/Documents/work/Base01/Shop/BaseShop/src/BaseShop.Infrastructure/BaseShop.Infrastructure.csproj",
-        "packagesPath": "/Users/ahmadhfr/.nuget/packages/",
-        "outputPath": "/Users/ahmadhfr/Documents/work/Base01/Shop/BaseShop/src/BaseShop.Infrastructure/obj/",
+        "projectPath": "E:\\TaskManejer\\src\\BaseShop.Infrastructure\\BaseShop.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "E:\\TaskManejer\\src\\BaseShop.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
-        "centralPackageVersionsManagementEnabled": true,
         "configFilePaths": [
-          "/Users/ahmadhfr/Documents/work/Base01/Shop/BaseShop/NuGet.Config",
-          "/Users/ahmadhfr/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/ahmadhfr/Documents/work/Base01/Shop/BaseShop/src/BaseShop.Core/BaseShop.Core.csproj": {
-                "projectPath": "/Users/ahmadhfr/Documents/work/Base01/Shop/BaseShop/src/BaseShop.Core/BaseShop.Core.csproj"
+              "E:\\TaskManejer\\src\\BaseShop.Core\\BaseShop.Core.csproj": {
+                "projectPath": "E:\\TaskManejer\\src\\BaseShop.Core\\BaseShop.Core.csproj"
               },
-              "/Users/ahmadhfr/Documents/work/Base01/Shop/BaseShop/src/BaseShop.SharedKernel/BaseShop.SharedKernel.csproj": {
-                "projectPath": "/Users/ahmadhfr/Documents/work/Base01/Shop/BaseShop/src/BaseShop.SharedKernel/BaseShop.SharedKernel.csproj"
+              "E:\\TaskManejer\\src\\BaseShop.SharedKernel\\BaseShop.SharedKernel.csproj": {
+                "projectPath": "E:\\TaskManejer\\src\\BaseShop.SharedKernel\\BaseShop.SharedKernel.csproj"
               }
             }
           }
@@ -173,73 +134,33 @@
           "dependencies": {
             "Ardalis.Specification.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.1.0, )",
-              "versionCentrallyManaged": true
+              "version": "(, )"
             },
             "Autofac": {
               "target": "Package",
-              "version": "[6.4.0, )",
-              "versionCentrallyManaged": true
+              "version": "(, )"
             },
             "Autofac.Extensions.DependencyInjection": {
               "target": "Package",
-              "version": "[8.0.0, )",
-              "versionCentrallyManaged": true
+              "version": "(, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.8, )",
-              "versionCentrallyManaged": true
+              "version": "(, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[6.0.8, )",
-              "versionCentrallyManaged": true
+              "version": "(, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.8, )",
-              "versionCentrallyManaged": true
+              "version": "(, )"
             },
             "SQLite": {
               "target": "Package",
-              "version": "[3.13.0, )",
-              "versionCentrallyManaged": true
+              "version": "(, )"
             }
-          },
-          "centralPackageVersions": {
-            "Ardalis.ApiEndpoints": "[4.0.1, )",
-            "Ardalis.GuardClauses": "[4.0.1, )",
-            "Ardalis.HttpClientTestExtensions": "[3.0.0, )",
-            "Ardalis.ListStartupServices": "[1.1.4, )",
-            "Ardalis.Result": "[4.0.0, )",
-            "Ardalis.Result.AspNetCore": "[4.0.0, )",
-            "Ardalis.SmartEnum": "[2.1.0, )",
-            "Ardalis.Specification": "[6.1.0, )",
-            "Ardalis.Specification.EntityFrameworkCore": "[6.1.0, )",
-            "Autofac": "[6.4.0, )",
-            "Autofac.Extensions.DependencyInjection": "[8.0.0, )",
-            "coverlet.collector": "[3.1.2, )",
-            "MediatR": "[10.0.1, )",
-            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": "[6.0.8, )",
-            "Microsoft.AspNetCore.Mvc.Testing": "[6.0.8, )",
-            "Microsoft.EntityFrameworkCore.InMemory": "[6.0.8, )",
-            "Microsoft.EntityFrameworkCore.Sqlite": "[6.0.8, )",
-            "Microsoft.EntityFrameworkCore.SqlServer": "[6.0.8, )",
-            "Microsoft.EntityFrameworkCore.Tools": "[6.0.8, )",
-            "Microsoft.NET.Test.Sdk": "[17.2.0, )",
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": "[6.0.8, )",
-            "Moq": "[4.18.1, )",
-            "Newtonsoft.Json": "[13.0.1, )",
-            "ReportGenerator": "[5.1.9, )",
-            "Serilog.AspNetCore": "[5.0.0, )",
-            "Serilog.Sinks.ApplicationInsights": "[4.0.0, )",
-            "SQLite": "[3.13.0, )",
-            "Swashbuckle.AspNetCore": "[6.3.1, )",
-            "Swashbuckle.AspNetCore.Annotations": "[6.3.1, )",
-            "xunit": "[2.4.1, )",
-            "xunit.runner.visualstudio": "[2.4.5, )"
           },
           "imports": [
             "net461",
@@ -257,28 +178,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/ahmadhfr/Documents/work/Base01/Shop/BaseShop/src/BaseShop.SharedKernel/BaseShop.SharedKernel.csproj": {
+    "E:\\TaskManejer\\src\\BaseShop.SharedKernel\\BaseShop.SharedKernel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ahmadhfr/Documents/work/Base01/Shop/BaseShop/src/BaseShop.SharedKernel/BaseShop.SharedKernel.csproj",
+        "projectUniqueName": "E:\\TaskManejer\\src\\BaseShop.SharedKernel\\BaseShop.SharedKernel.csproj",
         "projectName": "BaseShop.SharedKernel",
-        "projectPath": "/Users/ahmadhfr/Documents/work/Base01/Shop/BaseShop/src/BaseShop.SharedKernel/BaseShop.SharedKernel.csproj",
-        "packagesPath": "/Users/ahmadhfr/.nuget/packages/",
-        "outputPath": "/Users/ahmadhfr/Documents/work/Base01/Shop/BaseShop/src/BaseShop.SharedKernel/obj/",
+        "projectPath": "E:\\TaskManejer\\src\\BaseShop.SharedKernel\\BaseShop.SharedKernel.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "E:\\TaskManejer\\src\\BaseShop.SharedKernel\\obj\\",
         "projectStyle": "PackageReference",
-        "centralPackageVersionsManagementEnabled": true,
         "configFilePaths": [
-          "/Users/ahmadhfr/Documents/work/Base01/Shop/BaseShop/NuGet.Config",
-          "/Users/ahmadhfr/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -299,51 +220,16 @@
           "dependencies": {
             "Ardalis.Specification": {
               "target": "Package",
-              "version": "[6.1.0, )",
-              "versionCentrallyManaged": true
+              "version": "(, )"
             },
             "MediatR": {
               "target": "Package",
-              "version": "[10.0.1, )",
-              "versionCentrallyManaged": true
+              "version": "(, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.2, )"
             }
-          },
-          "centralPackageVersions": {
-            "Ardalis.ApiEndpoints": "[4.0.1, )",
-            "Ardalis.GuardClauses": "[4.0.1, )",
-            "Ardalis.HttpClientTestExtensions": "[3.0.0, )",
-            "Ardalis.ListStartupServices": "[1.1.4, )",
-            "Ardalis.Result": "[4.0.0, )",
-            "Ardalis.Result.AspNetCore": "[4.0.0, )",
-            "Ardalis.SmartEnum": "[2.1.0, )",
-            "Ardalis.Specification": "[6.1.0, )",
-            "Ardalis.Specification.EntityFrameworkCore": "[6.1.0, )",
-            "Autofac": "[6.4.0, )",
-            "Autofac.Extensions.DependencyInjection": "[8.0.0, )",
-            "coverlet.collector": "[3.1.2, )",
-            "MediatR": "[10.0.1, )",
-            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": "[6.0.8, )",
-            "Microsoft.AspNetCore.Mvc.Testing": "[6.0.8, )",
-            "Microsoft.EntityFrameworkCore.InMemory": "[6.0.8, )",
-            "Microsoft.EntityFrameworkCore.Sqlite": "[6.0.8, )",
-            "Microsoft.EntityFrameworkCore.SqlServer": "[6.0.8, )",
-            "Microsoft.EntityFrameworkCore.Tools": "[6.0.8, )",
-            "Microsoft.NET.Test.Sdk": "[17.2.0, )",
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": "[6.0.8, )",
-            "Moq": "[4.18.1, )",
-            "Newtonsoft.Json": "[13.0.1, )",
-            "ReportGenerator": "[5.1.9, )",
-            "Serilog.AspNetCore": "[5.0.0, )",
-            "Serilog.Sinks.ApplicationInsights": "[4.0.0, )",
-            "SQLite": "[3.13.0, )",
-            "Swashbuckle.AspNetCore": "[6.3.1, )",
-            "Swashbuckle.AspNetCore.Annotations": "[6.3.1, )",
-            "xunit": "[2.4.1, )",
-            "xunit.runner.visualstudio": "[2.4.5, )"
           },
           "imports": [
             "net461",
@@ -361,7 +247,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

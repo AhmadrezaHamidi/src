@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace BaseShop.SharedKernel.Commanding;
+namespace BaseShop.SharedKernel.Commanding
 {
     public class ProcessingCommand
     {

@@ -3,3 +3,8 @@
 /Users/ahmadhfr/Documents/work/Base01/Shop/BaseShop/src/BaseShop.SharedKernel/obj/Debug/net6.0/BaseShop.SharedKernel.AssemblyInfoInputs.cache
 /Users/ahmadhfr/Documents/work/Base01/Shop/BaseShop/src/BaseShop.SharedKernel/obj/Debug/net6.0/BaseShop.SharedKernel.AssemblyInfo.cs
 /Users/ahmadhfr/Documents/work/Base01/Shop/BaseShop/src/BaseShop.SharedKernel/obj/Debug/net6.0/BaseShop.SharedKernel.csproj.CoreCompileInputs.cache
+E:\TaskManejer\src\BaseShop.SharedKernel\obj\Debug\net6.0\BaseShop.SharedKernel.csproj.AssemblyReference.cache
+E:\TaskManejer\src\BaseShop.SharedKernel\obj\Debug\net6.0\BaseShop.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+E:\TaskManejer\src\BaseShop.SharedKernel\obj\Debug\net6.0\BaseShop.SharedKernel.AssemblyInfoInputs.cache
+E:\TaskManejer\src\BaseShop.SharedKernel\obj\Debug\net6.0\BaseShop.SharedKernel.AssemblyInfo.cs
+E:\TaskManejer\src\BaseShop.SharedKernel\obj\Debug\net6.0\BaseShop.SharedKernel.csproj.CoreCompileInputs.cache

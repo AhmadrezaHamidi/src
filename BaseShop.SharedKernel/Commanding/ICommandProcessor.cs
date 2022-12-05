@@ -1,4 +1,4 @@
-﻿namespace BaseShop.SharedKernel.Commanding;
+﻿namespace BaseShop.SharedKernel.Commanding
 {
     /// <summary>Represents a processor to process command.
     /// </summary>
